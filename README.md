@@ -1,4 +1,5 @@
-# Computer Vision Projects
+# Alexa Skills Projects
 
-This website is a showcase of the state of the art of computer vision using Amazon Rekognition.
+This website is a showcase of Alexa Skills I have published
+
 
